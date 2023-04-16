@@ -1,0 +1,4 @@
+.venv
+metastore_db
+derby.log
+.idea
